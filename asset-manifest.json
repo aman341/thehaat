@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/thehaat/static/css/main.d94eb1b9.css",
+    "main.js": "/thehaat/static/js/main.f6652928.js",
+    "static/media/boxicons.svg": "/thehaat/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
+    "static/media/boxicons.eot": "/thehaat/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
+    "static/media/mobileImage.webp": "/thehaat/static/media/mobileImage.3cc819c33f47d05404ff.webp",
+    "static/media/boxicons.woff": "/thehaat/static/media/boxicons.d12afc36557395143e4b.woff",
+    "static/media/boxicons.ttf": "/thehaat/static/media/boxicons.db9ddb1898dbd76badca.ttf",
+    "static/media/delivery_logo.webp": "/thehaat/static/media/delivery_logo.c89b3d354c6baf3ef6ca.webp",
+    "static/media/boxicons.woff2": "/thehaat/static/media/boxicons.df635aaf04cd75132f62.woff2",
+    "static/media/AppStore.webp": "/thehaat/static/media/AppStore.9ccac52cbf5f17ae7f2a.webp",
+    "static/media/PlayStore.webp": "/thehaat/static/media/PlayStore.4fc4b78ac8d8ddc37573.webp",
+    "static/media/Wide_Assortment.avif": "/thehaat/static/media/Wide_Assortment.85187734fc823a611c4e.avif",
+    "static/media/Easy_Returns_Refund.avif": "/thehaat/static/media/Easy_Returns_Refund.ccd292ad37d9ad775b10.avif",
+    "static/media/Best_Prices_Offers.avif": "/thehaat/static/media/Best_Prices_Offers.3f2d9b111c7d459c950f.avif",
+    "static/media/10_minute_delivery.avif": "/thehaat/static/media/10_minute_delivery.cac9aaad616656a19c5f.avif",
+    "index.html": "/thehaat/index.html",
+    "main.d94eb1b9.css.map": "/thehaat/static/css/main.d94eb1b9.css.map",
+    "main.f6652928.js.map": "/thehaat/static/js/main.f6652928.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d94eb1b9.css",
+    "static/js/main.f6652928.js"
+  ]
+}
